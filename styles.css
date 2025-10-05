@@ -1,0 +1,23 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(to right, #89f7fe, #66a6ff);
+}
+
+.container {
+  text-align: center;
+  background: #fff;
+  padding: 25px;
+  border-radius: 15px;
+  width: 320px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+#quote {
+  margin: 20px 0;
+  font-size: 18px;
+  font-style: italic;
+}
